@@ -1,0 +1,50 @@
+{
+  "stickers" : [
+    {
+      "filename" : "bird.sticker"
+    },
+    {
+      "filename" : "bubble.sticker"
+    },
+    {
+      "filename" : "cat.sticker"
+    },
+    {
+      "filename" : "crab.sticker"
+    },
+    {
+      "filename" : "fish.sticker"
+    },
+    {
+      "filename" : "heart.sticker"
+    },
+    {
+      "filename" : "maggot.sticker"
+    },
+    {
+      "filename" : "player.sticker"
+    },
+    {
+      "filename" : "shell.sticker"
+    },
+    {
+      "filename" : "spinach.sticker"
+    },
+    {
+      "filename" : "spinach1.sticker"
+    },
+    {
+      "filename" : "spinach2.sticker"
+    },
+    {
+      "filename" : "unicorn.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

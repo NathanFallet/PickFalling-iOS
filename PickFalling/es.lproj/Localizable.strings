@@ -1,0 +1,24 @@
+/* Highest score */
+"highest" = "Mejor puntaje: %d";
+
+/* Highest score in lose */
+"highest_lose" = "Mejor puntaje: %d";
+
+/* Button for a locked mode */
+"menu_button_locked" = "%1$@\nDesbloquear: %2$d";
+
+/* Button for an unlocked mode */
+"menu_button_unlocked" = "%1$@\nMejor puntaje: %2$d";
+
+/* Current score */
+"score" = "Puntaje: %d";
+
+/* Current score in lose */
+"score_lose" = "Puntaje: %d";
+
+/* Total score */
+"total" = "Puntaje total: %d";
+
+/* Score update */
+"score_update_title" = "¡Puntaje actualizado!";
+"score_update_description" = "¡Hemos actualizado un puntaje en su aparato!";

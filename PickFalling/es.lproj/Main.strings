@@ -1,0 +1,36 @@
+/* Class = "UIButton"; normalTitle = "Back to menu"; ObjectID = "00D-HI-kAF"; */
+"00D-HI-kAF.normalTitle" = "Volver al menú";
+
+/* Class = "UILabel"; text = "Click to start"; ObjectID = "9dv-4b-ApA"; */
+"9dv-4b-ApA.text" = "Haz clic para empezar";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Br0-9M-hys"; */
+"Br0-9M-hys.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "CLASSIC Highest score: 0"; ObjectID = "I4S-eC-LZY"; */
+"I4S-eC-LZY.normalTitle" = "CLASSIC Mejor puntaje: 0";
+
+/* Class = "UIButton"; normalTitle = "Play again"; ObjectID = "KV8-Ou-0tu"; */
+"KV8-Ou-0tu.normalTitle" = "Volver a jugar";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "XQJ-eN-vlm"; */
+"XQJ-eN-vlm.text" = "Menú";
+
+/* Class = "UILabel"; text = " "; ObjectID = "aoN-rc-Egi"; */
+"aoN-rc-Egi.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "e4g-mO-ASa"; */
+"e4g-mO-ASa.text" = " ";
+
+/* Class = "UILabel"; text = "You lost!"; ObjectID = "fTe-Wp-NnJ"; */
+"fTe-Wp-NnJ.text" = "¡Pierde!";
+
+/* Class = "UIButton"; normalTitle = "CLASSIC Unlock: 0"; ObjectID = "fWQ-RR-EOA"; */
+"fWQ-RR-EOA.normalTitle" = "CLASSIC Desbloquear: 0";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "i0a-bv-1Zi"; */
+"i0a-bv-1Zi.text" = "Puntaje : 0";
+
+/* Class = "UILabel"; text = " "; ObjectID = "pGY-ha-kHF"; */
+"pGY-ha-kHF.text" = " ";
+
